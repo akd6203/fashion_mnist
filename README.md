@@ -1,7 +1,7 @@
 
 # Fashion MNIST Classification with TensorFlow
 
-![Fashion MNIST Kaggle](https://storage.googleapis.com/kaggle-datasets-images/2243/3791/9384af51de8baa77f6320901f53bd26b/dataset-cover.png)
+![Fashion MNIST Kaggle](https://github.com/akd6203/fashion_mnist/blob/main/dataset-cover.png)
 
 ## Overview
 
